@@ -1,0 +1,65 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+                url('images/tow-truck-logo.png') center/cover no-repeat;
+    color: white;
+}
+
+section h2 {
+    font-weight: 600;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+}
+
+/* Настройки галереи */
+.swiper-container {
+    width: 100%;
+    max-width: 800px;
+    height: 450px; /* 16:9 пропорция */
+    margin: 0 auto;
+}
+
+.swiper-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+/* Социальные кнопки */
+.social-buttons .btn img {
+    margin-right: 8px;
+    vertical-align: middle;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+                url('https://source.unsplash.com/1920x1080/?tow-truck') center/cover no-repeat;
+    color: white;
+}
+
+section h2 {
+    font-weight: 600;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+}
+
+
+
+/* Социальные кнопки */
+.social-buttons .btn img {
+    margin-right: 8px;
+    vertical-align: middle;
+}
